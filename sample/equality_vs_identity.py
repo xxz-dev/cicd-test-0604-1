@@ -4,7 +4,7 @@ def nonconformant_eq_operator():
     if a == None:
         print("a eq None")
 
-def nonconformant_is_operator():
+def rename_method():
     a = [1, 2, 3]
     b = a.copy()
     if a is b :
